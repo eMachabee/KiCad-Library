@@ -1361,7 +1361,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "6b7e965c-ff0d-4ffc-8b6c-a1b049528475")
 	)
-	(model "${KIPRJMOD}/KiCad-Library/Storage/Storage.pretty/FBGA153_13X11_5X0_8_KNT.step"
+	(model "${KIPRJMOD}/KiCad-Library/Storage/Storage.3dshapes/FBGA153_13X11_5X0_8_KNT.step"
 		(offset
 			(xyz 0 0 0)
 		)
