@@ -1108,7 +1108,7 @@
 		(remove_unused_layers no)
 		(uuid "c8189f16-72b9-4394-a823-eb91b0051c6a")
 	)
-	(model "${KIPRJMOD}/KiCad-Library/Connector/Connector.3dshapes/DTM13-12PA-R008.step"
+	(model "${KIPRJMOD}/KiCad-Library/Connector_emachabee/Connector_emachabee.3dshapes/DTM13-12PA-R008.step"
 		(offset
 			(xyz 0.1 -30.55 8.2)
 		)

@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Connector:TE_DTM13-12PA-R008"
+		(property "Footprint" "Connector_emachabee:TE_DTM13-12PA-R008"
 			(at 6.35 12.7 0)
 			(effects
 				(font
@@ -382,7 +382,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Connector:TE_DTM1312PA12PBR008"
+		(property "Footprint" "Connector_emachabee:TE_DTM1312PA12PBR008"
 			(at 19.05 19.05 0)
 			(effects
 				(font

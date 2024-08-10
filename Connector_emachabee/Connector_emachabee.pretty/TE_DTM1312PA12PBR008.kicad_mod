@@ -830,7 +830,7 @@
 		(remove_unused_layers no)
 		(uuid "ae71fa85-00ce-46c2-92a4-d30ab6b42194")
 	)
-	(model "${KIPRJMOD}/KiCad-Library/Connector/Connector.3dshapes/ATM13-12PA-12PB-BM01.stp"
+	(model "${KIPRJMOD}/KiCad-Library/Connector_emachabee/Connector_emachabee.3dshapes/ATM13-12PA-12PB-BM01.stp"
 		(offset
 			(xyz -50.5 -14.8 8.37)
 		)
