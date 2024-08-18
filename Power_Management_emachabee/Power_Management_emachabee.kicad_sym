@@ -10,7 +10,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 19.05 0)
+			(at -19.304 20.574 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "VNQ9080AJTR"
-			(at 0 16.51 0)
+			(at -12.446 18.288 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -26,7 +26,7 @@
 			)
 		)
 		(property "Footprint" "Power_Management_emachabee:SO_0AJTR_STM"
-			(at -27.94 8.89 0)
+			(at -27.178 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/vnq9080aj.pdf"
-			(at -27.94 8.89 0)
+			(at -25.654 30.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46,7 +46,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -27.94 8.89 0)
+			(at -27.94 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55,7 +55,7 @@
 			)
 		)
 		(property "MPN" "VNQ9080AJTR"
-			(at 0 0 0)
+			(at -28.702 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82,56 +82,8 @@
 			)
 		)
 		(symbol "VNQ9080AJTR_0_1"
-			(polyline
-				(pts
-					(xy -20.32 -13.97) (xy 20.32 -13.97)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -20.32 13.97) (xy -20.32 -13.97)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 20.32 -13.97) (xy 20.32 13.97)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 20.32 13.97) (xy -20.32 13.97)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin output line
-				(at -27.94 8.89 0)
+				(at 27.94 7.62 180)
 				(length 7.62)
 				(name "OUTPUT0"
 					(effects
@@ -149,7 +101,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 27.94 -6.35 180)
+				(at 27.94 -13.97 180)
 				(length 7.62)
 				(name "N.C."
 					(effects
@@ -167,7 +119,7 @@
 				)
 			)
 			(pin input line
-				(at 27.94 -3.81 180)
+				(at -27.94 8.89 0)
 				(length 7.62)
 				(name "INPUT2"
 					(effects
@@ -185,7 +137,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -1.27 180)
+				(at -27.94 -3.81 0)
 				(length 7.62)
 				(name "SEL0"
 					(effects
@@ -203,7 +155,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 27.94 1.27 180)
+				(at -27.94 -10.16 0)
 				(length 7.62)
 				(name "CS"
 					(effects
@@ -221,7 +173,7 @@
 				)
 			)
 			(pin input line
-				(at 27.94 3.81 180)
+				(at -27.94 6.35 0)
 				(length 7.62)
 				(name "INPUT3"
 					(effects
@@ -239,7 +191,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 6.35 180)
+				(at -27.94 -6.35 0)
 				(length 7.62)
 				(name "SEL1"
 					(effects
@@ -257,7 +209,7 @@
 				)
 			)
 			(pin output line
-				(at 27.94 8.89 180)
+				(at 27.94 -3.81 180)
 				(length 7.62)
 				(name "OUTPUT3"
 					(effects
@@ -275,7 +227,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 6.35 0)
+				(at -27.94 -1.27 0)
 				(length 7.62)
 				(name "SEN"
 					(effects
@@ -293,7 +245,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 3.81 0)
+				(at -27.94 13.97 0)
 				(length 7.62)
 				(name "INPUT0"
 					(effects
@@ -311,7 +263,7 @@
 				)
 			)
 			(pin power_out line
-				(at -27.94 1.27 0)
+				(at -27.94 -13.97 0)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -329,7 +281,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 -1.27 0)
+				(at -27.94 2.54 0)
 				(length 7.62)
 				(name "*FAULTRST"
 					(effects
@@ -347,7 +299,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -3.81 0)
+				(at -27.94 11.43 0)
 				(length 7.62)
 				(name "INPUT1"
 					(effects
@@ -365,7 +317,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -27.94 -6.35 0)
+				(at 27.94 -11.43 180)
 				(length 7.62)
 				(name "N.C."
 					(effects
@@ -383,7 +335,7 @@
 				)
 			)
 			(pin output line
-				(at -27.94 -8.89 0)
+				(at 27.94 3.81 180)
 				(length 7.62)
 				(name "OUTPUT1"
 					(effects
@@ -401,7 +353,7 @@
 				)
 			)
 			(pin output line
-				(at 27.94 -8.89 180)
+				(at 27.94 0 180)
 				(length 7.62)
 				(name "OUTPUT2"
 					(effects
@@ -411,6 +363,37 @@
 					)
 				)
 				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "VNQ9080AJTR_1_1"
+			(rectangle
+				(start -20.32 16.51)
+				(end 20.32 -16.51)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin output line
+				(at 0 24.13 270)
+				(length 7.62)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "EPAD"
 					(effects
 						(font
 							(size 1.27 1.27)
